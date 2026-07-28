@@ -22,5 +22,5 @@
 - Contribute to Open Source
 
 📫 Connect with me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/prathmeshpujari397
 - LinkedIn: (Add your LinkedIn profile)
